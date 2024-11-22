@@ -5,7 +5,15 @@
 </p>
 
 
+## Integrantes do Projeto
 
+| Nome | Matrícula | Turma |
+|------|-----------|-------|
+| Gabriel Previ de Oliveira | 98774 | 2TDSPV |
+| Gustavo Soares Fosaluza | 97850 | 2TDSPF |
+| Mateus Vinicius da Conceição Silva | 551692 | 2TDSPV |
+| Pedro Henrique Figueiredo de Oliveira | 552000 | 2TDSPV |
+| Vitor da Silva Ruas | 550871 | 2TDSPV |
 
 
 **EcoEnergy IoT** é uma solução inovadora para monitorar e gerenciar o consumo de energia de dispositivos conectados. Utilizando a tecnologia de Internet das Coisas (IoT), a solução permite medir o consumo de energia de diferentes aparelhos de forma individual, oferecendo informações detalhadas e insights para ajudar a reduzir os custos com energia elétrica.
