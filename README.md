@@ -1,6 +1,16 @@
 # EcoEnergy IoT - Monitoramento Inteligente de Consumo de Energia
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b7479aa1-dcb1-4c9f-a202-64018a010c66" alt="Golden Data - Logo" width="200"/>
+</p>
+
+
+
+
+
 **EcoEnergy IoT** é uma solução inovadora para monitorar e gerenciar o consumo de energia de dispositivos conectados. Utilizando a tecnologia de Internet das Coisas (IoT), a solução permite medir o consumo de energia de diferentes aparelhos de forma individual, oferecendo informações detalhadas e insights para ajudar a reduzir os custos com energia elétrica.
+
+### Link do vídeo: https://youtu.be/rGPxf3JSvnI
 
 ## Funcionalidades Principais
 
