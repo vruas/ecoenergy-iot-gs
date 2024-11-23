@@ -98,4 +98,6 @@ Alternativamente, você pode adicionar as dependências diretamente no arquivo `
 Exemplo:
 ![image](https://github.com/user-attachments/assets/4334bf53-3dac-42f1-b36e-e484cf1f3828)
 
+**ANTES DE EXECUTAR, FAÇA A BUILD DESTE PROJETO**
+
 
